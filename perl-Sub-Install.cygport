@@ -1,0 +1,11 @@
+CPAN_AUTHOR=rjbs
+inherit perl
+
+NAME="perl-Sub-Install"
+VERSION=0.926
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl subroutine installation module"
+DESCRIPTION="This module provides a simple routine for installing code into
+packages without looking at typeglobs or thinking about warnings or
+strictures."
